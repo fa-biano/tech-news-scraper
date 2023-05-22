@@ -1,7 +1,7 @@
 # 🔎 Projeto Tech News Scraper!
 
 Esse projeto utiliza técnicas de raspagem de dados para buscar notícias de tecnologia no site https://blog.betrybe.com. </br>
-As notícias raspadas do site são armanezadas no banco de dados MongoDB.
+As notícias raspadas do site são armazenadas no banco de dados MongoDB.
 
 Toda interação ocorre no menu exibido no terminal, onde é possível escolher a qtd de notícias que deseja buscar e aplicar filtros de busca posteriomente.
 
